@@ -1,11 +1,9 @@
 {
   "version" : "1.0.0-alpha",
   "id": 1,
-  1: [{
-    "date": "10/11/2023",
-    "mods": [
-      "hola",
-      "test"
-    ]
-  }]
+  "date": "10/11/2023",
+  "mods": [
+    "hola",
+    "test"
+  ]
 }
