@@ -2,8 +2,17 @@
   "version" : "1.0.0-alpha",
   "id": 1,
   "date": "10/11/2023",
-  "mods": [
-    "hola",
-    "test"
-  ]
+  "en": {
+    "mods": [
+      "hola",
+      "test"
+    ]
+  },
+  "es": {
+    "mods": [
+      "hola",
+      "test"
+    ]
+  }
+
 }
